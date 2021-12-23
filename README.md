@@ -16,10 +16,11 @@
 | <a href="https://github.com/yigitkemal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitkemal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="YigitKemal's github stats" /></a> | <a href="https://github.com/yigitkemal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitkemal&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+<!--
 #### Top Repositories
 
-
-<!-- <a href="https://github.com/yigitkemal/github-readme-stats">
+ <a href="https://github.com/yigitkemal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yigitkemal&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/yigitkemal/yigitkemal.github.io">
