@@ -19,12 +19,12 @@
 #### Top Repositories
 
 
-<a href="https://github.com/yigitkemal/github-readme-stats">
+<!-- <a href="https://github.com/yigitkemal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yigitkemal&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/yigitkemal/yigitkemal.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yigitkemal&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+</a> -->
 
 <br />
 <br />
