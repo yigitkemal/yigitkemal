@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+
 <!--
 **yigitkemal/yigitkemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
