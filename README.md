@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitkemal)
-![Github stats](https://github-readme-stats.vercel.app/api?username=yigitkemal&show_icons=true&count_private=true)
+<a href="https://github.com/yigitkemal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yigitkemal&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/yigitkemal/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yigitkemal&repo=Quotes_App" />
+</a>
 
 <!-- Actual text -->
 
